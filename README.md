@@ -33,4 +33,19 @@ python trainTFNet.py
 
 
 
+## Citation
+
+If you find this work useful for your research, please cite our paper
+
+```
+@ARTICLE{9893911,
+  author={Wang, Xun and Zhang, Xudong and Wang, Gan and Zhang, Ying and Shi, Xin and Dai, Huanhuan and Liu, Min and Wang, Zixuan and Meng, Xiangyu},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={TransFusionNet: Semantic and Spatial Features Fusion Framework for Liver Tumor and Vessel Segmentation Under JetsonTX2}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/JBHI.2022.3207233}}
+```
 
