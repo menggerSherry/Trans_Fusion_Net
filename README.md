@@ -1,7 +1,8 @@
 # TransFusionNet: Liver tumor and vessel segmentation
 
+TransFusionNet: Semantic and Spatial Features Fusion Framework for Liver Tumor and Vessel Segmentation Under JetsonTX2
 
-TransFusionNet: Exploiting full Resolution Feature Context for Liver Tumor and Vessel Segmentation via Integrate Framework: Application to Liver Tumor and Vessel 3D Reconstruction under embedded microprocessor
+![model](README/model.jpg)
 
 ## Requirement
 
